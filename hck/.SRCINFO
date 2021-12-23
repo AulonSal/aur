@@ -1,7 +1,7 @@
 pkgbase = hck
 	pkgdesc = A sharp cut(1) clone
 	pkgver = 0.7.1
-	pkgrel = 1
+	pkgrel = 2
 	url = https://github.com/sstadick/hck
 	arch = x86_64
 	license = Unlicense
