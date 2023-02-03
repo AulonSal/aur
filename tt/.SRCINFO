@@ -1,7 +1,7 @@
 pkgbase = tt
 	pkgdesc = Terminal based typing test
 	pkgver = 0.4.2
-	pkgrel = 1
+	pkgrel = 2
 	url = https://github.com/lemnos/tt
 	arch = x86_64
 	arch = i686
